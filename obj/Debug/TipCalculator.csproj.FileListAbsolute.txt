@@ -1,0 +1,17 @@
+/Users/mansigarg/Downloads/AND101-master/Exercise 1/Completed/TipCalculator/bin/Debug/TipCalculator.dll
+/Users/mansigarg/Downloads/AND101-master/Exercise 1/Completed/TipCalculator/bin/Debug/TipCalculator.pdb
+/Users/mansigarg/Downloads/AND101-master/Exercise 1/Completed/TipCalculator/bin/Debug/com.companyname.tipcalculator.apk
+/Users/mansigarg/Downloads/AND101-master/Exercise 1/Completed/TipCalculator/bin/Debug/com.companyname.tipcalculator-Signed.apk
+/Users/mansigarg/Downloads/AND101-master/Exercise 1/Completed/TipCalculator/obj/Debug/TipCalculator.csproj.CoreCompileInputs.cache
+/Users/mansigarg/Downloads/AND101-master/Exercise 1/Completed/TipCalculator/obj/Debug/TipCalculator.dll
+/Users/mansigarg/Downloads/AND101-master/Exercise 1/Completed/TipCalculator/obj/Debug/TipCalculator.pdb
+/Users/mansigarg/Downloads/AND101-master/Exercise 1/Completed/TipCalculator/obj/Debug/android/bin/com.companyname.tipcalculator.apk
+/Users/mansigarg/Downloads/AND101-master/Exercise 1/Completed/TipCalculator/obj/Debug/res/layout/main.xml
+/Users/mansigarg/Downloads/AND101-master/Exercise 1/Completed/TipCalculator/obj/Debug/res/values/strings.xml
+/Users/mansigarg/Downloads/AND101-master/Exercise 1/Completed/TipCalculator/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/mansigarg/Downloads/AND101-master/Exercise 1/Completed/TipCalculator/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/mansigarg/Downloads/AND101-master/Exercise 1/Completed/TipCalculator/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/mansigarg/Downloads/AND101-master/Exercise 1/Completed/TipCalculator/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/mansigarg/Downloads/AND101-master/Exercise 1/Completed/TipCalculator/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/mansigarg/Downloads/AND101-master/Exercise 1/Completed/TipCalculator/obj/Debug/R.cs.flag
+/Users/mansigarg/Downloads/AND101-master/Exercise 1/Completed/TipCalculator/obj/Debug/uploadflags.txt
